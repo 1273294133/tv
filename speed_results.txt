@@ -1,6 +1,0 @@
-山西卫视,http://182.114.49.253:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.402 MB/s
-河南法制报道,http://182.114.49.253:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0,1.473 MB/s
-浙江卫视,http://182.114.49.253:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,1.473 MB/s
-湖北卫视,http://182.114.49.253:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,1.284 MB/s
-辽宁卫视,http://182.114.49.253:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,1.308 MB/s
-陕西卫视,http://182.114.49.253:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,1.345 MB/s
