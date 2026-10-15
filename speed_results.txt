@@ -1,0 +1,2 @@
+东南卫视,http://125.42.150.205:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,1.206 MB/s
+辽宁卫视,http://182.114.49.20:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,1.206 MB/s
